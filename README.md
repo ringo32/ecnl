@@ -1,4 +1,5 @@
-# Support-wiki32
-some support collection wiki
+# ECNl : endeavouros NL community repository
 
-[test](https://github.com/ringo32/Support-wiki32/wiki)
+ondersteuning wiki
+
+WIP
